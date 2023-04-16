@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sreenidhi KS 
-- 👀 I’m interested in web development and programming
-- 🌱 I’m currently learning html,css and java script, C language
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in web development and programming and UI/UX development
+- 🌱 I’m currently learning CSS, AI and Machine Learning
+- 💞️ I’m looking to collaborate on web development and machine learning/ deep learning projects.
 - 📫 How to reach me: through my email: sreenidhiks8@gmail.com
 ==> instagram handle: sreenidhi_08
 
